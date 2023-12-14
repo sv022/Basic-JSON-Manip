@@ -1,0 +1,17 @@
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\JSON App 2.exe
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\JSON App 2.deps.json
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\JSON App 2.runtimeconfig.json
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\JSON App 2.dll
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\JSON App 2.pdb
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.csproj.AssemblyReference.cache
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.AssemblyInfoInputs.cache
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.AssemblyInfo.cs
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.csproj.CoreCompileInputs.cache
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.csproj.CopyComplete
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.dll
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\refint\JSON App 2.dll
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.pdb
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\JSON App 2.genruntimeconfig.cache
+D:\.11Main\vscode\c#\Basic JSON Manip\JSON App 2\obj\Debug\net7.0\ref\JSON App 2.dll
